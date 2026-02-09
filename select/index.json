@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ヘミソフィア",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-02-09T05:30:34.550568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hemisphere [ヘミソフィア]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/01_Hemisphere_[ヘミソフィア]_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "MAKI",
+      "has_synced": false,
+      "path": "select/02_ヘミソフィア_MAKI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_ヘミソフィア_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/04_ヘミソフィア_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヘミソフィア(without maaya)",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/05_ヘミソフィア(without_maaya)_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_ヘミソフィア_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/07_ヘミソフィア_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヘミソフィア",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/08_ヘミソフィア_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヘミソフィア without maaya",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/09_ヘミソフィア_without_maaya_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘミソフィア",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_ヘミソフィア_坂本_真綾.txt"
+    }
+  ]
+}
